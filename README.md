@@ -168,27 +168,35 @@ jupyter notebook
 
 ## 📸 Project Screenshots
 
-> Add your screenshots inside the **images** folder.
+### 📊 Data Distribution
 
-### Correlation Heatmap
+The histogram below shows the distribution of all numerical features in the California Housing dataset.
 
-```markdown
-![Correlation Heatmap](images/correlation_heatmap.png)
-```
-
-### Feature Importance
-
-```markdown
-![Feature Importance](images/feature_importance.png)
-```
-
-### Actual vs Predicted
-
-```markdown
-![Actual vs Predicted](images/actual_vs_predicted.png)
-```
+![Data Distribution](images/data_distribution.png)
 
 ---
+
+### 🗺️ California Housing Distribution
+
+The geographical distribution of houses colored according to their median house value.
+
+![Housing Map](images/housing_map.png)
+
+---
+
+### 🔥 Correlation Heatmap
+
+Correlation heatmap showing the relationships between numerical features.
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+---
+
+### ⭐ Random Forest Feature Importance
+
+Feature importance obtained from the trained Random Forest Regressor.
+
+![Feature Importance](images/feature_importance.png)
 
 ## 📦 Model Files
 
