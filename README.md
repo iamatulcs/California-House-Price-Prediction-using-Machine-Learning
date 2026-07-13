@@ -130,10 +130,10 @@ California-House-Price-Prediction/
 ├── README.md
 │
 └── images/
+    ├── data_distribution.png
+    ├── housing_map.png
     ├── correlation_heatmap.png
-    ├── feature_importance.png
-    ├── actual_vs_predicted.png
-    └── housing_distribution.png
+    └── feature_importance.png
 ```
 
 ---
