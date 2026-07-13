@@ -15,6 +15,15 @@ The project uses **Scikit-learn Pipelines** and **Random Forest Regression** to 
 
 ---
 
+## 🚀 Repository Contents
+
+- 📓 End-to-End Machine Learning Notebook
+- 📊 Exploratory Data Analysis (EDA)
+- ⚙️ Data Preprocessing Pipeline
+- 🤖 Random Forest Regression Model
+- 📈 Model Evaluation
+- 💾 Saved Preprocessing Pipeline
+
 ## 🎯 Project Objectives
 
 - Predict California house prices accurately.
@@ -197,6 +206,14 @@ Correlation heatmap showing the relationships between numerical features.
 Feature importance obtained from the trained Random Forest Regressor.
 
 ![Feature Importance](images/feature_importance.png)
+
+## 📌 Results Summary
+
+- Built an end-to-end Machine Learning pipeline.
+- Successfully handled missing values and categorical variables.
+- Compared Linear Regression and Random Forest Regression.
+- Achieved approximately **47,000 RMSE** on the test dataset.
+- Identified **Median Income** as the most influential feature affecting house prices.
 
 ## 📦 Model Files
 
